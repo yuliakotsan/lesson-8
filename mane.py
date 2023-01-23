@@ -1,2 +1,3 @@
 def mane_function():
-    return 'aaa'
+    a = "aaa"
+    return a
