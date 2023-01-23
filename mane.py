@@ -1,4 +1,5 @@
 def mane_function():
     a = "aaa"
-    print(a)
-    return a
+    b = "bbb"
+    print(a+b)
+    return a+b
