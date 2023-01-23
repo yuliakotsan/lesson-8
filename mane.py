@@ -3,3 +3,9 @@ def mane_function():
     b = "bbb"
     print(a+b)
     return a+b
+
+
+def test_function():
+    a = "test"
+    return a
+
