@@ -1,2 +1,3 @@
 def function_new():
-    return "xxx"
+    x = "xxx"
+    return x
