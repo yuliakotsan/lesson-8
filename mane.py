@@ -4,5 +4,6 @@ def mane_function():
     return a
 
 
-def test_funcion():
-    return "test"
+def test_function():
+    a = "test"
+    return a
