@@ -7,3 +7,7 @@ def mane_function():
 def test_function():
     a = "test"
     return a
+
+
+def task2_function():
+    return "zzzz"
